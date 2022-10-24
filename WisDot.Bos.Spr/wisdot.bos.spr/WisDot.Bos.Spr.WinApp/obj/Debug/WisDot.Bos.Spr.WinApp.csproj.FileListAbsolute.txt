@@ -1,0 +1,12 @@
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\bin\Debug\WisDot.Bos.Spr.WinApp.exe.config
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\bin\Debug\WisDot.Bos.Spr.WinApp.exe
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\bin\Debug\WisDot.Bos.Spr.WinApp.pdb
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\bin\Debug\WisDot.Bos.Spr.Core.dll
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\bin\Debug\WisDot.Bos.Spr.Core.pdb
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\obj\Debug\WisDot.Bos.Spr.WinApp.csprojResolveAssemblyReference.cache
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\obj\Debug\WisDot.Bos.Spr.WinApp.Properties.Resources.resources
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\obj\Debug\WisDot.Bos.Spr.WinApp.csproj.GenerateResource.Cache
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\obj\Debug\WisDot.Bos.Spr.WinApp.exe
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\obj\Debug\WisDot.Bos.Spr.WinApp.pdb
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\obj\Debug\WisDot.Bos.Spr.WinApp.FormLogin.resources
+C:\bos\projects\Workspaces\WisDot.Bos.Spr\WisDot.Bos.Spr.WinApp\bin\Debug\Oracle.DataAccess.dll
