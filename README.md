@@ -1,6 +1,7 @@
 # Wisconsin-Bureau-of-Structures-Timesheet-Tool
 The Bureau of Structures (BOS) in-house tool for querying employee timesheet data.
 
+Functionality Demo: https://www.youtube.com/watch?v=SSH76894T6g&ab_channel=LukeBreyer
 
 Project Description:
 
